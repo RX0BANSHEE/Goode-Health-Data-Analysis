@@ -37,12 +37,19 @@ After modeling to predict customer Healthy Index and Risk Level, we found that L
 
 
 Package used
+
 numpy
+
 pandas
+
 os
+
 matplotlib
+
 missingno
+
 seaborn
+
 sklearn
 
 
